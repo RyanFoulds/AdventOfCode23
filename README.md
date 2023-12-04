@@ -1,4 +1,4 @@
-# AdventOfCode22
+# AdventOfCode23
 Repo for advent of code solutions for 2023
 
 To run the solution for any of the days:
